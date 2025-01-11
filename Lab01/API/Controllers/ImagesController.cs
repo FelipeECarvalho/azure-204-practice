@@ -25,8 +25,8 @@ namespace Api.Controllers
 
         private async Task<BlobContainerClient> GetCloudBlobContainer(string containerName)
         {
-            BlobServiceClient serviceClient = new BlobServiceClient(_options.StorageConnectionString);
-            BlobContainerClient containerClient = serviceClient.GetBlobContainerClient(containerName);
+            var serviceClient = new BlobServiceClient(_options.StorageConnectionString);
+            var containerClient = serviceClient.GetBlobContainerClient(containerName);
             await containerClient.CreateIfNotExistsAsync();
             return containerClient;
         }
@@ -40,10 +40,9 @@ namespace Api.Controllers
             BlobClient blobClient;
             BlobSasBuilder blobSasBuilder;
 
-            List<string> results = new List<string>();
+            List<string> results = [];
             await foreach (BlobItem blobItem in containerClient.GetBlobsAsync())
             {
-
                 blobClient = containerClient.GetBlobClient(blobItem.Name);
                 blobSasBuilder = new BlobSasBuilder()
                 {
@@ -54,11 +53,9 @@ namespace Api.Controllers
                 };
                 blobSasBuilder.SetPermissions(BlobSasPermissions.Read);
 
-
                 results.Add(blobClient.GenerateSasUri(blobSasBuilder).AbsoluteUri);
-
             }
-            Console.Out.WriteLine("Got Images");
+
             return Ok(results);
         }
 
@@ -67,10 +64,15 @@ namespace Api.Controllers
         public async Task<ActionResult> Post()
         {
             Stream image = Request.Body;
+
             BlobContainerClient containerClient = await GetCloudBlobContainer(_options.FullImageContainerName);
+
             string blobName = Guid.NewGuid().ToString().ToLower().Replace("-", String.Empty);
+
             BlobClient blobClient = containerClient.GetBlobClient(blobName);
+
             await blobClient.UploadAsync(image);
+
             return Created(blobClient.Uri, null);
         }
     }
