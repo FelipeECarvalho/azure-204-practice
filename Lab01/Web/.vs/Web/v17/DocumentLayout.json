@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|c:\\users\\felip\\downloads\\az-204-developingsolutionsformicrosoftazure-master\\az-204-developingsolutionsformicrosoftazure-master\\allfiles\\labs\\01\\starter\\lab01\\web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|c:\\users\\felip\\downloads\\az-204-developingsolutionsformicrosoftazure-master\\az-204-developingsolutionsformicrosoftazure-master\\allfiles\\labs\\01\\starter\\lab01\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|c:\\users\\felip\\downloads\\az-204-developingsolutionsformicrosoftazure-master\\az-204-developingsolutionsformicrosoftazure-master\\allfiles\\labs\\01\\starter\\lab01\\web\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|solutionrelative:options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|c:\\users\\felip\\downloads\\az-204-developingsolutionsformicrosoftazure-master\\az-204-developingsolutionsformicrosoftazure-master\\allfiles\\labs\\01\\starter\\lab01\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T18:36:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T18:36:18.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Options.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Options.cs",
+              "RelativeDocumentMoniker": "Options.cs",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Options.cs",
+              "RelativeToolTip": "Options.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:36:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:35:57.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
