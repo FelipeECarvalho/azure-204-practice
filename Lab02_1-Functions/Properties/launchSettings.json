@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Lab02_1_Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7106",
+      "launchBrowser": false
+    }
+  }
+}
