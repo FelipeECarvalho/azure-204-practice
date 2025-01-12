@@ -598,11 +598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\API\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab01-AppServices\\API\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\API\\Api.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab01-AppServices\\API\\Api.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\API\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab01-AppServices\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

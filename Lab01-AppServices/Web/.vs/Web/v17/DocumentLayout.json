@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\",
+  "WorkspaceRootPath": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab01-AppServices\\Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|c:\\users\\felip\\downloads\\az-204-developingsolutionsformicrosoftazure-master\\az-204-developingsolutionsformicrosoftazure-master\\allfiles\\labs\\01\\starter\\lab01\\web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|c:\\users\\felip\\onedrive\\documentos\\estudosazure\\lab01-appservices\\web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C48CAA05-3E5D-4A41-B5B6-0C2D943831BD}|Web.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab01-AppServices\\Web\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab01-AppServices\\Web\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T19:09:16.909Z",
               "EditorCaption": ""

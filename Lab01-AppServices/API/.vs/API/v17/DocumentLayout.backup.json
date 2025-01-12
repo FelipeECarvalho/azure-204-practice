@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{05767BB4-C22D-4F7A-BD47-B6C7D347F4BC}|Api.csproj|c:\\users\\felip\\downloads\\az-204-developingsolutionsformicrosoftazure-master\\az-204-developingsolutionsformicrosoftazure-master\\allfiles\\labs\\01\\starter\\lab01\\api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05767BB4-C22D-4F7A-BD47-B6C7D347F4BC}|Api.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab01-AppServices\\API\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\API\\Controllers\\ImagesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
-              "ToolTip": "C:\\Users\\felip\\Downloads\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Lab01\\API\\Controllers\\ImagesController.cs",
-              "RelativeToolTip": "Controllers\\ImagesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T18:18:26.561Z",
-              "EditorCaption": ""
             }
           ]
         },
