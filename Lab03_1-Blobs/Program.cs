@@ -10,9 +10,9 @@ namespace BlobManager
 {
     public class Program
     {
-        private const string blobServiceEndpoint = "https://festorageaz204.blob.core.windows.net/";
-        private const string storageAccountName = "festorageaz204";
-        private const string storageAccountKey = "EjVu0+yziwli/SqCtVn4BS4G6a0Avf8nqJgBdcnH5AoMsymDnX52TuN5viwXEmcai06WFesGnoXl+AStTKmoqw==";
+        private const string blobServiceEndpoint = "";
+        private const string storageAccountName = "";
+        private const string storageAccountKey = "";
 
         public static async Task Main(string[] args)
         {
