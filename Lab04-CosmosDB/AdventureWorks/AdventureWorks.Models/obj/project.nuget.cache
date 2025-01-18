@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jabauL5d9oY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab04-CosmosDB\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

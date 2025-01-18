@@ -1,0 +1,12 @@
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\bin\Debug\net8.0\AdventureWorks.Models.deps.json
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\bin\Debug\net8.0\AdventureWorks.Models.dll
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\bin\Debug\net8.0\AdventureWorks.Models.pdb
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.sourcelink.json
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.dll
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\refint\AdventureWorks.Models.dll
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.pdb
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab04-CosmosDB\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\ref\AdventureWorks.Models.dll
