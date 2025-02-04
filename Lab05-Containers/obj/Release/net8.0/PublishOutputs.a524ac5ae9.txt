@@ -1,0 +1,5 @@
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\out\ipcheck.exe
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\out\ipcheck.dll
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\out\ipcheck.deps.json
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\out\ipcheck.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\out\ipcheck.pdb

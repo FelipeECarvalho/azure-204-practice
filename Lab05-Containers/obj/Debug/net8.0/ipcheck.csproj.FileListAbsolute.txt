@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\bin\Debug\net8.0\ipcheck.exe
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\bin\Debug\net8.0\ipcheck.deps.json
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\bin\Debug\net8.0\ipcheck.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\bin\Debug\net8.0\ipcheck.dll
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\bin\Debug\net8.0\ipcheck.pdb
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.sourcelink.json
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.dll
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\refint\ipcheck.dll
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.pdb
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ipcheck.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\EstudosAzure\Lab05-Containers\obj\Debug\net8.0\ref\ipcheck.dll
