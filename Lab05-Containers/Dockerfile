@@ -8,7 +8,7 @@
  COPY . ./
 
  # Publish application to the "out" folder
- RUN dotnet publish --configuration Release --output out
+ RUN dotnet publish ipcheck.csproj --configuration Release --output out
 
  # Start container by running application DLL
  ENTRYPOINT ["dotnet", "out/ipcheck.dll"]
