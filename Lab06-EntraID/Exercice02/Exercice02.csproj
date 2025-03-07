@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>aspnet-OIDCClient-5249f5b2-6266-4a13-b8b4-e79c6443aabc</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0-rc.2.23480.2" NoWarn="NU1605" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="8.0.0-rc.2.23480.2" NoWarn="NU1605" />
+		<PackageReference Include="Microsoft.Identity.Web" Version="2.13.0" />
+		<PackageReference Include="Microsoft.Identity.Web.UI" Version="2.13.0" />
+		<PackageReference Include="Microsoft.Identity.Web.DownstreamApi" Version="2.13.0" />
+	</ItemGroup>
+
+</Project>

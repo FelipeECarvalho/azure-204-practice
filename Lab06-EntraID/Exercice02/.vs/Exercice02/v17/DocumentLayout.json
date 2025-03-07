@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|c:\\users\\felip\\onedrive\\documentos\\estudosazure\\lab06-entraid\\exercice02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|c:\\users\\felip\\onedrive\\documentos\\estudosazure\\lab06-entraid\\exercice02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|c:\\users\\felip\\onedrive\\documentos\\estudosazure\\lab06-entraid\\exercice02\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|c:\\users\\felip\\onedrive\\documentos\\estudosazure\\lab06-entraid\\exercice02\\exercice02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE1326AD-2DE9-2771-D1D4-1E939519EE88}|Exercice02.csproj|solutionrelative:exercice02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:22:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T01:21:35.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T01:20:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercice02",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\Exercice02.csproj",
+              "RelativeDocumentMoniker": "Exercice02.csproj",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\EstudosAzure\\Lab06-EntraID\\Exercice02\\Exercice02.csproj",
+              "RelativeToolTip": "Exercice02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T01:20:39.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
